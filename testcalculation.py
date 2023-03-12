@@ -1,4 +1,4 @@
-input = input("Enter: ") #แรก
+input = input("Enter: ") #แรกะะะะะะะะะะ
 for i in input:
     if i == "+":
         lst = input.split("+")
